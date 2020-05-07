@@ -1,0 +1,53 @@
+h2 {
+    background-color: blue;
+    color: mintcream;
+    padding: 0;
+}
+h3{
+    background-color: blue;
+    padding: 0;
+}
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    color: maroon;
+}
+.column1of2{
+    margin: 20px 50px 30px 50px;
+}
+.one{
+  margin: 30px;
+}
+.two{
+    margin: 8px;
+}
+.three{
+    margin: 15px;
+}
+.images{
+    margin: 50px;
+}
+.apple{
+    background-color: black;
+}
+.four{
+    
+    margin: 50px 30px 100px 50px;
+    font-family: sans-serif;
+    display: inline-block;
+    color: white;
+    
+}
+.five{
+    display: inline-block;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+
+}
+.six{
+    display: inline-block;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+}
